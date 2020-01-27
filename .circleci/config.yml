@@ -23,7 +23,7 @@ jobs:
     
     steps:
       - checkout
-      - run: mvn build
+      - run: mvn compile
 
         
      
