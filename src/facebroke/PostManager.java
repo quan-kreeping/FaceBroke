@@ -38,7 +38,7 @@ public class PostManager extends HttpServlet {
 	private static Logger log = LoggerFactory.getLogger(PostManager.class);
 	private static final String INVALID_WALL_ID = "The given Wall does not exist";
 	private static final int POSTS_PER_PAGE = 20;
-
+	as;ldkjfasldkjfasl;kdjfa;sldkjfasldkjfasldkfjasld;kjfas;dlkjfasd;lkfj
 	
 	/**
 	 * Call parent Servlet constructor
